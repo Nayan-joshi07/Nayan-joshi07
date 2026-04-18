@@ -1,10 +1,17 @@
-### Hi there 👋
+Hi, I'm Nayan 👋
+Software engineer working across AI systems, backend infrastructure, and product.
+Currently  building and RAG pipelines, vector databases, and agentic AI systems.
 
-SWE @BombayPlay. A Front End Developer using JavaScript & Typescript Technologies. Super nerd who loves JavaScript & its frameworks, libraries and enjoys to customize all of the development environment.Love Problem Solving & Learn New Algorithms.
+What I work with
+Languages: Python, TypeScript, JavaScript
+AI / Agents: LangGraph, PydanticAI, OpenAI / Anthropic / Gemini APIs, MCP
+Backend: FastAPI, Node.js, PostgreSQL, Redis, Qdrant (vector DB)
+Frontend: React, Next.js, React Native, Flutter
+Infra: Docker, AWS (ECS, ECR), GitHub Actions, Terraform, n8n
+What I'm into right now
 
-🌱 I’m a enthusiast and currently all into ReactNative , ReactJS , Node.js , Express.js & Mongo DB & Unity. 🧡
-💬 Ask me about ReactNative, TypeScript , JavaScript, career or technology advice.. 🙌
-👯 I’m looking to collaborate with other open source contributor
-⚡ Fun fact: I am on Laptop more than half of the day.
+Multi-agent systems and production-grade agentic workflows
+Vector databases, retrieval, and real-world RAG tradeoffs
+DevSecOps: VAPT remediation, image signing (Cosign), vulnerability scanning (Trivy)
+Shipping small, useful products solo
    
-[linkedin]: https://www.linkedin.com/in/nayan-joshi-93271b202/
